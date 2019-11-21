@@ -1,0 +1,26 @@
+/*
+Theme Name: Liveprojectdev
+Theme URI: https://liveprojectdev.com/
+Author: Live Project Dev Team
+Author URI: https://liveprojectdev.com
+Description: Our 2019 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Twenty Nineteen is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.
+Requires at least: WordPress 4.9.6
+Version: 0.0.1
+License:  
+License URI:  
+Text Domain: liveprojectdev
+Tags: Company website
+*/
+
+
+#fh5co-logo a{
+
+    font-size: 45px;
+    color: black !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+#fh5co-logo{
+     
+}
